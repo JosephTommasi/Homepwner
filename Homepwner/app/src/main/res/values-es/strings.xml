@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homepwner</string>
+    <string name="item_name_help">Ingrese el nombre del elemento</string>
+    <string name="item_name">Nombre</string>
+    <string name="serial_help">Número de serie del elemento</string>
+    <string name="serial">De serie</string>
+    <string name="value_help">Ingrese el valor del elemento</string>
+    <string name="value">Valor</string>
+    <string name="date">Fecha</string>
+    <string name="date_picker_title">Fecha en que se agregó el elemento</string>
+    <string name="new_item">Nuevo elemento</string>
+    <string name="show_subtitle">Mostrar subtítulo</string>
+    <string name="hide_subtitle">Ocultar subtítulo</string>
+    <string name="subtitle_format">%1$d elementos</string>
+    <string name="send_report_button">Enviar reporte</string>
+    <string name="item_report">El elemento %1$s, con una identificación de %2$s y un valor de %3$s, se agregó en %4$s.</string>
+    <string name="item_report_subject">Informe de elementos Homepwner</string>
+    <string name="send_report">Enviar informe de elementos a través de</string>
+</resources>
